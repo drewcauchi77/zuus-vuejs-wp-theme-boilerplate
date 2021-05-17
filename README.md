@@ -15,6 +15,7 @@ _How to run this theme?_ 🐱‍🏍
 3. Git clone this project.
 4. Run ```yarn install``` where package.json is located.
 5. Run ```yarn dev``` on the project.
+6. Start coding!
 
 _Notes_ 📝
 
