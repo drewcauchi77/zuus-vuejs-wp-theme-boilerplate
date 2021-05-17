@@ -21,6 +21,7 @@ _Notes_ 📝
 
 - Running ```yarn dev``` on the project would execute a watch command which executes your code as you go - you would still need to refresh your Wordpress theme frontend to see your changes.
 - The same command above would pre-render your dist folder, ready for production.
-- I would recommend you have a virtual host for your Wordpress project, otherwise it would mess with your routing system (to change from localhost/test to test.dev for example). If you need any help setting this up visit here (https://www.cloudways.com/blog/configure-virtual-host-on-windows-10-for-wordpress/) - Windows version only.
+- I would recommend you have a virtual host for your Wordpress project, otherwise it would mess with your routing system (to change from localhost/test to test.dev for example). If you need any help setting this up visit [here](https://www.cloudways.com/blog/configure-virtual-host-on-windows-10-for-wordpress/) - Windows version only.
+- If you are new to VueJS, I would recommend having a look at their documentation [here](https://vuejs.org/v2/guide/). I have tried my best to include ReadMe files within each folder structure to allow you to notice what each folder serves for, however feel free to segragate your folder structure as your like.
 
 Enjoy coding!
